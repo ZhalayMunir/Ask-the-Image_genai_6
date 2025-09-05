@@ -2,6 +2,9 @@
 
 A multimodal proof-of-concept app that lets you **ask questions about images using your voice**, and the AI answers out loud.
 
+<img width="1332" height="819" alt="Screenshot 2025-05-01 at 3 04 59 PM" src="https://github.com/user-attachments/assets/31a646c6-94fa-4af5-a9e2-dd36697e39b1" />
+
+
 Powered by:
 - 🧠 Whisper (speech-to-text)
 - 🖼️ BLIP-2 (visual question answering)
